@@ -1,4 +1,4 @@
-## 👋 Hi, I am Aaron | 안녕하세요, 저는 배동우입니다
+## 👋 Greetings, I am Aaron | 안녕하세요, 배동우입니다
 
 🎯 **AI Researcher · Deep Learning Engineer · Multi-modal Creator**  
 I build intelligent systems that **see, read, and create** — from medical pill detection to RAG-based document Q&A and multi-modal advertisement generation.  
