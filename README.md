@@ -1,10 +1,19 @@
 ## 👋 Hi, I am Aaron | 안녕하세요, 저는 배동우입니다
 
 🎯 **AI Researcher · Deep Learning Engineer · Multi-modal Creator**  
-I build intelligent systems that **see, read, and create** — from medical pill detection to RAG-based document Q&A and multimodal advertisement generation.  
+I build intelligent systems that **see, read, and create** — from medical pill detection to RAG-based document Q&A and multi-modal advertisement generation.  
 
 저는 **시각·언어·생성 AI 연구**를 통해 실제 문제를 해결하는 인공지능 엔지니어입니다.  
 의약품 객체 탐지, 문서 기반 질의응답, 멀티모달 광고 생성 등 다양한 분야의 AI 프로젝트를 수행했습니다.  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=langchain&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 
 ---
 
